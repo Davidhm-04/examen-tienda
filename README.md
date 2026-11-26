@@ -7,3 +7,5 @@ Tienda online de artículos deportivos.
 
 Pendiente de completar.
 
+Horario: lunes a viernes de 9:00 a 18:00
+
