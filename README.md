@@ -5,7 +5,7 @@ Tienda online de artículos deportivos.
 
 ## Contacto
 
-Pendiente de completar.
+Teléfono: 600 000 000
 
 Horario: lunes a viernes de 9:00 a 18:00
 
